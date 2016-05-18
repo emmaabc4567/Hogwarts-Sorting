@@ -7,7 +7,6 @@ public class hogwartsSorting extends JFrame
 	{
 		private static final long serialVersionUID = 1L;
 		static String name;
-		static String house;
 		static int Hufflepuff=0;
 		static int Ravenclaw=0;
 		static int Gryffindor=0;
